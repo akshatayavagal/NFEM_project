@@ -1,0 +1,3853 @@
+New itteration with value of t = 0.0
+New itteration with value of t = 0.1
+Element no. = 0
+sigma_next_step =
+ [[-304.49330467]
+ [-164.49330467]
+ [-164.49330467]]
+mode : plastic 
+  p_strain =
+ [[-0.00129798]
+ [ 0.00064899]
+ [ 0.00064899]]
+Element no. = 1
+sigma_next_step =
+ [[0.]
+ [0.]
+ [0.]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 2
+sigma_next_step =
+ [[0.]
+ [0.]
+ [0.]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[0.]
+ [0.]
+ [0.]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[0.]
+ [0.]
+ [0.]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[0.]
+ [0.]
+ [0.]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[0.]
+ [0.]
+ [0.]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[0.]
+ [0.]
+ [0.]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[0.]
+ [0.]
+ [0.]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[0.]
+ [0.]
+ [0.]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 1
+ value of U_global 
+: [[0.01      ]
+ [0.00968456]
+ [0.00718799]
+ [0.00530622]
+ [0.00390636]
+ [0.00287837]
+ [0.00213375]
+ [0.00160307]
+ [0.00123303]
+ [0.00098357]
+ [0.00082515]]
+Element no. = 0
+sigma_next_step =
+ [[36.53564765]
+ [76.48874126]
+ [76.48874126]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 1
+sigma_next_step =
+ [[-47.07251161]
+ [ 24.77043978]
+ [ 24.77043978]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 2
+sigma_next_step =
+ [[-29.47854371]
+ [ 15.93310178]
+ [ 15.93310178]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-18.14363087]
+ [ 10.23647344]
+ [ 10.23647344]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-10.94388858]
+ [  6.61652281]
+ [  6.61652281]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-6.42689442]
+ [ 4.34485533]
+ [ 4.34485533]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-3.62313926]
+ [ 2.9348035 ]
+ [ 2.9348035 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-1.89869771]
+ [ 2.06788731]
+ [ 2.06788731]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-0.84630772]
+ [ 1.53934893]
+ [ 1.53934893]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.20821818]
+ [ 1.21951486]
+ [ 1.21951486]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 2
+ value of U_global 
+: [[0.01      ]
+ [0.00747786]
+ [0.00555014]
+ [0.00409715]
+ [0.00301626]
+ [0.00222251]
+ [0.00164756]
+ [0.00123779]
+ [0.00095208]
+ [0.00075945]
+ [0.00063713]]
+Element no. = 0
+sigma_next_step =
+ [[-57.09583098]
+ [ 29.54164623]
+ [ 29.54164623]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 1
+sigma_next_step =
+ [[-36.34665642]
+ [ 19.12629332]
+ [ 19.12629332]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 2
+sigma_next_step =
+ [[-22.76161741]
+ [ 12.30261476]
+ [ 12.30261476]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-14.00945679]
+ [  7.90400958]
+ [  7.90400958]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-8.45023442]
+ [ 5.1088942 ]
+ [ 5.1088942 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-4.96247418]
+ [ 3.35484466]
+ [ 3.35484466]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-2.79757747]
+ [ 2.26608462]
+ [ 2.26608462]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-1.46606397]
+ [ 1.59670234]
+ [ 1.59670234]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-0.65346961]
+ [ 1.18859574]
+ [ 1.18859574]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.16077397]
+ [ 0.94163847]
+ [ 0.94163847]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 3
+ value of U_global 
+: [[0.01      ]
+ [0.00747786]
+ [0.00555014]
+ [0.00409715]
+ [0.00301626]
+ [0.00222251]
+ [0.00164756]
+ [0.00123779]
+ [0.00095208]
+ [0.00075945]
+ [0.00063713]]
+New itteration with value of t = 0.2
+Element no. = 0
+sigma_next_step =
+ [[-303.83081751]
+ [-163.83081751]
+ [-163.83081751]]
+mode : plastic 
+  p_strain =
+ [[-0.00237063]
+ [ 0.00118532]
+ [ 0.00118532]]
+Element no. = 1
+sigma_next_step =
+ [[-36.34665642]
+ [ 19.12629332]
+ [ 19.12629332]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 2
+sigma_next_step =
+ [[-22.76161741]
+ [ 12.30261476]
+ [ 12.30261476]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-14.00945679]
+ [  7.90400958]
+ [  7.90400958]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-8.45023442]
+ [ 5.1088942 ]
+ [ 5.1088942 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-4.96247418]
+ [ 3.35484466]
+ [ 3.35484466]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-2.79757747]
+ [ 2.26608462]
+ [ 2.26608462]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-1.46606397]
+ [ 1.59670234]
+ [ 1.59670234]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-0.65346961]
+ [ 1.18859574]
+ [ 1.18859574]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.16077397]
+ [ 0.94163847]
+ [ 0.94163847]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 1
+ value of U_global 
+: [[0.02      ]
+ [0.01607928]
+ [0.01193421]
+ [0.00880992]
+ [0.00648573]
+ [0.00477896]
+ [0.00354266]
+ [0.00266157]
+ [0.0020472 ]
+ [0.00163302]
+ [0.00136999]]
+Element no. = 0
+sigma_next_step =
+ [[-60.18141476]
+ [ 79.81858524]
+ [ 79.81858524]]
+mode : plastic 
+  p_strain =
+ [[-1.17681796e-04]
+ [ 5.88408978e-05]
+ [ 5.88408978e-05]]
+Element no. = 1
+sigma_next_step =
+ [[-78.15450433]
+ [ 41.12636817]
+ [ 41.12636817]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 2
+sigma_next_step =
+ [[-48.94323444]
+ [ 26.45373338]
+ [ 26.45373338]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-30.12387546]
+ [ 16.99561974]
+ [ 16.99561974]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-18.1701413]
+ [ 10.9854147]
+ [ 10.9854147]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-10.67057463]
+ [  7.21376454]
+ [  7.21376454]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-6.01549913]
+ [ 4.87265509]
+ [ 4.87265509]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-3.15240834]
+ [ 3.43331388]
+ [ 3.43331388]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-1.40512494]
+ [ 2.55578147]
+ [ 2.55578147]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.3457047 ]
+ [ 2.02476086]
+ [ 2.02476086]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 2
+ value of U_global 
+: [[0.02      ]
+ [0.01439996]
+ [0.0106878 ]
+ [0.00788981]
+ [0.00580836]
+ [0.00427984]
+ [0.00317267]
+ [0.0023836 ]
+ [0.00183339]
+ [0.00146247]
+ [0.00122691]]
+Element no. = 0
+sigma_next_step =
+ [[-107.75102322]
+ [  32.24897678]
+ [  32.24897678]]
+mode : plastic 
+  p_strain =
+ [[-0.00055754]
+ [ 0.00027877]
+ [ 0.00027877]]
+Element no. = 1
+sigma_next_step =
+ [[-69.99202606]
+ [ 36.83111879]
+ [ 36.83111879]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 2
+sigma_next_step =
+ [[-43.83158936]
+ [ 23.69089807]
+ [ 23.69089807]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-26.97772949]
+ [ 15.22059246]
+ [ 15.22059246]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-16.27244667]
+ [  9.83809492]
+ [  9.83809492]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-9.55613683]
+ [ 6.46035695]
+ [ 6.46035695]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-5.38723872]
+ [ 4.36375363]
+ [ 4.36375363]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-2.82316994]
+ [ 3.07473762]
+ [ 3.07473762]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-1.2583733 ]
+ [ 2.28885494]
+ [ 2.28885494]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.30959921]
+ [ 1.81329427]
+ [ 1.81329427]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 3
+ value of U_global 
+: [[0.02      ]
+ [0.01443838]
+ [0.01071632]
+ [0.00791086]
+ [0.00582385]
+ [0.00429126]
+ [0.00318113]
+ [0.00238996]
+ [0.00183829]
+ [0.00146637]
+ [0.00123019]]
+New itteration with value of t = 0.30000000000000004
+Element no. = 0
+sigma_next_step =
+ [[-317.82266413]
+ [-177.82266413]
+ [-177.82266413]]
+mode : plastic 
+  p_strain =
+ [[-0.00357879]
+ [ 0.0017894 ]
+ [ 0.0017894 ]]
+Element no. = 1
+sigma_next_step =
+ [[-70.17877289]
+ [ 36.92938848]
+ [ 36.92938848]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 2
+sigma_next_step =
+ [[-43.94853711]
+ [ 23.75410813]
+ [ 23.75410813]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-27.04970919]
+ [ 15.26120276]
+ [ 15.26120276]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-16.31586344]
+ [  9.86434409]
+ [  9.86434409]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-9.58163371]
+ [ 6.47759393]
+ [ 6.47759393]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-5.4016125 ]
+ [ 4.37539663]
+ [ 4.37539663]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-2.83070248]
+ [ 3.08294137]
+ [ 3.08294137]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-1.26173079]
+ [ 2.29496187]
+ [ 2.29496187]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.31042525]
+ [ 1.81813235]
+ [ 1.81813235]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 1
+ value of U_global 
+: [[0.03      ]
+ [0.02218737]
+ [0.0164677 ]
+ [0.01215656]
+ [0.00894948]
+ [0.00659435]
+ [0.00488842]
+ [0.00367263]
+ [0.00282488]
+ [0.00225336]
+ [0.00189042]]
+Element no. = 0
+sigma_next_step =
+ [[-98.31995796]
+ [ 41.68004204]
+ [ 41.68004204]]
+mode : plastic 
+  p_strain =
+ [[-0.00154912]
+ [ 0.00077456]
+ [ 0.00077456]]
+Element no. = 1
+sigma_next_step =
+ [[-91.4483202]
+ [ 48.5516798]
+ [ 48.5516798]]
+mode : plastic 
+  p_strain =
+ [[-0.00030448]
+ [ 0.00015224]
+ [ 0.00015224]]
+Element no. = 2
+sigma_next_step =
+ [[-67.53544406]
+ [ 36.50279045]
+ [ 36.50279045]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-41.56712014]
+ [ 23.45179552]
+ [ 23.45179552]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-25.07248602]
+ [ 15.15847631]
+ [ 15.15847631]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-14.72403702]
+ [  9.95407837]
+ [  9.95407837]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-8.30062439]
+ [ 6.72364483]
+ [ 6.72364483]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-4.34992292]
+ [ 4.73753686]
+ [ 4.73753686]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-1.93889386]
+ [ 3.52665365]
+ [ 3.52665365]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.47702856]
+ [ 2.7939127 ]
+ [ 2.7939127 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 2
+ value of U_global 
+: [[0.03      ]
+ [0.02047481]
+ [0.01500269]
+ [0.01107508]
+ [0.00815331]
+ [0.0060077 ]
+ [0.00445354]
+ [0.0033459 ]
+ [0.00257357]
+ [0.0020529 ]
+ [0.00172224]]
+Element no. = 0
+sigma_next_step =
+ [[-146.83090208]
+ [  -6.83090208]
+ [  -6.83090208]]
+mode : plastic 
+  p_strain =
+ [[-0.00199768]
+ [ 0.00099884]
+ [ 0.00099884]]
+Element no. = 1
+sigma_next_step =
+ [[-96.2056988]
+ [ 43.7943012]
+ [ 43.7943012]]
+mode : plastic 
+  p_strain =
+ [[-1.89562684e-04]
+ [ 9.47813422e-05]
+ [ 9.47813422e-05]]
+Element no. = 2
+sigma_next_step =
+ [[-61.52731557]
+ [ 33.25540742]
+ [ 33.25540742]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-37.86920118]
+ [ 21.36546288]
+ [ 21.36546288]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-22.84197255]
+ [ 13.80993889]
+ [ 13.80993889]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-13.41414845]
+ [  9.06853771]
+ [  9.06853771]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-7.56217928]
+ [ 6.12549192]
+ [ 6.12549192]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-3.96294248]
+ [ 4.31607328]
+ [ 4.31607328]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-1.76640483]
+ [ 3.21291338]
+ [ 3.21291338]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.43459086]
+ [ 2.54535897]
+ [ 2.54535897]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 3
+ value of U_global 
+: [[0.03      ]
+ [0.02077159]
+ [0.01515035]
+ [0.01118409]
+ [0.00823356]
+ [0.00606683]
+ [0.00449737]
+ [0.00337884]
+ [0.0025989 ]
+ [0.0020731 ]
+ [0.00173919]]
+Element no. = 0
+sigma_next_step =
+ [[-138.42422306]
+ [   1.57577694]
+ [   1.57577694]]
+mode : plastic 
+  p_strain =
+ [[-0.00191995]
+ [ 0.00095997]
+ [ 0.00095997]]
+Element no. = 1
+sigma_next_step =
+ [[-97.90718315]
+ [ 42.09281685]
+ [ 42.09281685]]
+mode : plastic 
+  p_strain =
+ [[-0.00023269]
+ [ 0.00011634]
+ [ 0.00011634]]
+Element no. = 2
+sigma_next_step =
+ [[-62.13289095]
+ [ 33.58271986]
+ [ 33.58271986]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-38.24192435]
+ [ 21.57574994]
+ [ 21.57574994]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-23.06679199]
+ [ 13.94586159]
+ [ 13.94586159]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-13.54617563]
+ [  9.15779373]
+ [  9.15779373]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-7.63660915]
+ [ 6.18578136]
+ [ 6.18578136]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-4.00194728]
+ [ 4.35855372]
+ [ 4.35855372]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-1.78379046]
+ [ 3.24453611]
+ [ 3.24453611]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.43886827]
+ [ 2.57041136]
+ [ 2.57041136]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 4
+ value of U_global 
+: [[0.03      ]
+ [0.02070689]
+ [0.01511924]
+ [0.01116112]
+ [0.00821665]
+ [0.00605437]
+ [0.00448813]
+ [0.0033719 ]
+ [0.00259357]
+ [0.00206884]
+ [0.00173562]]
+New itteration with value of t = 0.4
+Element no. = 0
+sigma_next_step =
+ [[-351.41683658]
+ [-211.41683658]
+ [-211.41683658]]
+mode : plastic 
+  p_strain =
+ [[-0.00496821]
+ [ 0.0024841 ]
+ [ 0.0024841 ]]
+Element no. = 1
+sigma_next_step =
+ [[-96.99179473]
+ [ 42.22991098]
+ [ 42.22991098]]
+mode : elastic 
+  p_strain =
+ [[-0.00023269]
+ [ 0.00011634]
+ [ 0.00011634]]
+Element no. = 2
+sigma_next_step =
+ [[-62.00529213]
+ [ 33.51375292]
+ [ 33.51375292]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-38.16338906]
+ [ 21.53144104]
+ [ 21.53144104]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-23.01942101]
+ [ 13.91722176]
+ [ 13.91722176]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-13.51835661]
+ [  9.13898688]
+ [  9.13898688]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-7.62092627]
+ [ 6.17307796]
+ [ 6.17307796]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-3.9937287 ]
+ [ 4.34960281]
+ [ 4.34960281]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-1.78012719]
+ [ 3.23787299]
+ [ 3.23787299]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.43796699]
+ [ 2.56513266]
+ [ 2.56513266]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 1
+ value of U_global 
+: [[0.04      ]
+ [0.02848817]
+ [0.02088246]
+ [0.01541557]
+ [0.01134871]
+ [0.00836221]
+ [0.00619894]
+ [0.00465721]
+ [0.00358219]
+ [0.00285746]
+ [0.00239721]]
+Element no. = 0
+sigma_next_step =
+ [[-130.99951516]
+ [   9.00048484]
+ [   9.00048484]]
+mode : plastic 
+  p_strain =
+ [[-0.00293008]
+ [ 0.00146504]
+ [ 0.00146504]]
+Element no. = 1
+sigma_next_step =
+ [[-97.1378638]
+ [ 42.8621362]
+ [ 42.8621362]]
+mode : plastic 
+  p_strain =
+ [[-0.00094037]
+ [ 0.00047019]
+ [ 0.00047019]]
+Element no. = 2
+sigma_next_step =
+ [[-85.64076293]
+ [ 46.28868392]
+ [ 46.28868392]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-52.71069038]
+ [ 29.73889767]
+ [ 29.73889767]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-31.79407289]
+ [ 19.22225424]
+ [ 19.22225424]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-18.67134779]
+ [ 12.62262917]
+ [ 12.62262917]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-10.52590703]
+ [  8.52616105]
+ [  8.52616105]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-5.51607712]
+ [ 6.007605  ]
+ [ 6.007605  ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-2.4586845 ]
+ [ 4.47210074]
+ [ 4.47210074]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.60491332]
+ [ 3.54292206]
+ [ 3.54292206]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 2
+ value of U_global 
+: [[0.04      ]
+ [0.02729189]
+ [0.0190623 ]
+ [0.01407191]
+ [0.01035953]
+ [0.00763334]
+ [0.00565863]
+ [0.00425128]
+ [0.00326996]
+ [0.00260839]
+ [0.00218827]]
+Element no. = 0
+sigma_next_step =
+ [[-164.88615356]
+ [ -24.88615356]
+ [ -24.88615356]]
+mode : plastic 
+  p_strain =
+ [[-0.00324341]
+ [ 0.00162171]
+ [ 0.00162171]]
+Element no. = 1
+sigma_next_step =
+ [[-119.40975428]
+ [  20.59024572]
+ [  20.59024572]]
+mode : plastic 
+  p_strain =
+ [[-0.00103421]
+ [ 0.0005171 ]
+ [ 0.0005171 ]]
+Element no. = 2
+sigma_next_step =
+ [[-78.17611766]
+ [ 42.25405609]
+ [ 42.25405609]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-48.11630574]
+ [ 27.14678716]
+ [ 27.14678716]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-29.0228286 ]
+ [ 17.54679848]
+ [ 17.54679848]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-17.0439103 ]
+ [ 11.52241187]
+ [ 11.52241187]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-9.60844483]
+ [ 7.7830013 ]
+ [ 7.7830013 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-5.03528319]
+ [ 5.48396837]
+ [ 5.48396837]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-2.24437992]
+ [ 4.08230218]
+ [ 4.08230218]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.55218769]
+ [ 3.23411285]
+ [ 3.23411285]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 3
+ value of U_global 
+: [[0.04      ]
+ [0.0274524 ]
+ [0.01919441]
+ [0.01416944]
+ [0.01043133]
+ [0.00768624]
+ [0.00569784]
+ [0.00428074]
+ [0.00329262]
+ [0.00262647]
+ [0.00220343]]
+New itteration with value of t = 0.5
+Element no. = 0
+sigma_next_step =
+ [[-371.49924631]
+ [-231.49924631]
+ [-231.49924631]]
+mode : plastic 
+  p_strain =
+ [[-0.00623268]
+ [ 0.00311634]
+ [ 0.00311634]]
+Element no. = 1
+sigma_next_step =
+ [[-119.08766575]
+ [  20.91233425]
+ [  20.91233425]]
+mode : plastic 
+  p_strain =
+ [[-0.00104612]
+ [ 0.00052306]
+ [ 0.00052306]]
+Element no. = 2
+sigma_next_step =
+ [[-78.71790078]
+ [ 42.54688893]
+ [ 42.54688893]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 3
+sigma_next_step =
+ [[-48.44976567]
+ [ 27.33492225]
+ [ 27.33492225]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-29.2239652 ]
+ [ 17.66840288]
+ [ 17.66840288]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-17.16202953]
+ [ 11.60226551]
+ [ 11.60226551]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-9.67503414]
+ [ 7.83693975]
+ [ 7.83693975]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-5.07017916]
+ [ 5.52197386]
+ [ 5.52197386]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-2.25993413]
+ [ 4.11059372]
+ [ 4.11059372]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.55601451]
+ [ 3.25652619]
+ [ 3.25652619]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 1
+ value of U_global 
+: [[0.05      ]
+ [0.03612471]
+ [0.02443787]
+ [0.0180402 ]
+ [0.01328092]
+ [0.00978594]
+ [0.00725436]
+ [0.00545014]
+ [0.00419209]
+ [0.00334396]
+ [0.00280536]]
+Element no. = 0
+sigma_next_step =
+ [[-125.84207378]
+ [  14.15792622]
+ [  14.15792622]]
+mode : plastic 
+  p_strain =
+ [[-0.00396117]
+ [ 0.00198058]
+ [ 0.00198058]]
+Element no. = 1
+sigma_next_step =
+ [[-146.72655015]
+ [  -6.72655015]
+ [  -6.72655015]]
+mode : plastic 
+  p_strain =
+ [[-0.00210335]
+ [ 0.00105168]
+ [ 0.00105168]]
+Element no. = 2
+sigma_next_step =
+ [[-90.6274604]
+ [ 49.3725396]
+ [ 49.3725396]]
+mode : plastic 
+  p_strain =
+ [[-1.78180693e-04]
+ [ 8.90903465e-05]
+ [ 8.90903465e-05]]
+Element no. = 3
+sigma_next_step =
+ [[-61.68511785]
+ [ 34.80218897]
+ [ 34.80218897]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-37.20727464]
+ [ 22.49500072]
+ [ 22.49500072]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-21.85029792]
+ [ 14.77173534]
+ [ 14.77173534]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-12.31802905]
+ [  9.97780991]
+ [  9.97780991]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-6.4552345 ]
+ [ 7.03044903]
+ [ 7.03044903]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-2.87729571]
+ [ 5.23351258]
+ [ 5.23351258]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.70790477]
+ [ 4.14613361]
+ [ 4.14613361]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 2
+ value of U_global 
+: [[0.05      ]
+ [0.03382272]
+ [0.02335454]
+ [0.01708466]
+ [0.01257747]
+ [0.00926761]
+ [0.00687012]
+ [0.00516146]
+ [0.00397005]
+ [0.00316684]
+ [0.00265677]]
+Element no. = 0
+sigma_next_step =
+ [[-191.04960029]
+ [ -51.04960029]
+ [ -51.04960029]]
+mode : plastic 
+  p_strain =
+ [[-0.00456412]
+ [ 0.00228206]
+ [ 0.00228206]]
+Element no. = 1
+sigma_next_step =
+ [[-132.05364489]
+ [   7.94635511]
+ [   7.94635511]]
+mode : plastic 
+  p_strain =
+ [[-0.00175531]
+ [ 0.00087766]
+ [ 0.00087766]]
+Element no. = 2
+sigma_next_step =
+ [[-93.85671055]
+ [ 46.14328945]
+ [ 46.14328945]]
+mode : plastic 
+  p_strain =
+ [[-1.21853033e-04]
+ [ 6.09265167e-05]
+ [ 6.09265167e-05]]
+Element no. = 3
+sigma_next_step =
+ [[-58.41784308]
+ [ 32.95882192]
+ [ 32.95882192]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-35.23651744]
+ [ 21.30350833]
+ [ 21.30350833]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-20.6929535 ]
+ [ 13.98932104]
+ [ 13.98932104]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-11.66558018]
+ [  9.4493154 ]
+ [  9.4493154 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-6.11332019]
+ [ 6.65806734]
+ [ 6.65806734]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-2.72489403]
+ [ 4.95630919]
+ [ 4.95630919]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.67040919]
+ [ 3.92652541]
+ [ 3.92652541]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 3
+ value of U_global 
+: [[0.05      ]
+ [0.03432768]
+ [0.02342581]
+ [0.01711708]
+ [0.01260134]
+ [0.00928519]
+ [0.00688316]
+ [0.00517126]
+ [0.00397758]
+ [0.00317285]
+ [0.00266181]]
+Element no. = 0
+sigma_next_step =
+ [[-176.74577606]
+ [ -36.74577606]
+ [ -36.74577606]]
+mode : plastic 
+  p_strain =
+ [[-0.00443186]
+ [ 0.00221593]
+ [ 0.00221593]]
+Element no. = 1
+sigma_next_step =
+ [[-139.22859275]
+ [   0.77140725]
+ [   0.77140725]]
+mode : plastic 
+  p_strain =
+ [[-0.00186801]
+ [ 0.000934  ]
+ [ 0.000934  ]]
+Element no. = 2
+sigma_next_step =
+ [[-94.25191795]
+ [ 45.74808205]
+ [ 45.74808205]]
+mode : plastic 
+  p_strain =
+ [[-1.31111097e-04]
+ [ 6.55555484e-05]
+ [ 6.55555484e-05]]
+Element no. = 3
+sigma_next_step =
+ [[-58.52867745]
+ [ 33.02135368]
+ [ 33.02135368]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-35.3033706 ]
+ [ 21.34392682]
+ [ 21.34392682]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-20.7322136 ]
+ [ 14.01586255]
+ [ 14.01586255]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-11.68771292]
+ [  9.46724329]
+ [  9.46724329]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-6.1249188 ]
+ [ 6.67069948]
+ [ 6.67069948]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-2.73006389]
+ [ 4.96571264]
+ [ 4.96571264]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.67168114]
+ [ 3.93397509]
+ [ 3.93397509]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 4
+ value of U_global 
+: [[0.05      ]
+ [0.03417916]
+ [0.023397  ]
+ [0.01710127]
+ [0.0125897 ]
+ [0.00927661]
+ [0.0068768 ]
+ [0.00516648]
+ [0.00397391]
+ [0.00316992]
+ [0.00265935]]
+New itteration with value of t = 0.6000000000000001
+Element no. = 0
+sigma_next_step =
+ [[-392.11287069]
+ [-252.11287069]
+ [-252.11287069]]
+mode : plastic 
+  p_strain =
+ [[-0.00750207]
+ [ 0.00375103]
+ [ 0.00375103]]
+Element no. = 1
+sigma_next_step =
+ [[-135.61247201]
+ [   1.84879282]
+ [   1.84879282]]
+mode : elastic 
+  p_strain =
+ [[-0.00186801]
+ [ 0.000934  ]
+ [ 0.000934  ]]
+Element no. = 2
+sigma_next_step =
+ [[-93.971187  ]
+ [ 45.76636403]
+ [ 45.76636403]]
+mode : elastic 
+  p_strain =
+ [[-1.31111097e-04]
+ [ 6.55555484e-05]
+ [ 6.55555484e-05]]
+Element no. = 3
+sigma_next_step =
+ [[-58.47461475]
+ [ 32.99085198]
+ [ 32.99085198]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-35.27076102]
+ [ 21.32421152]
+ [ 21.32421152]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-20.71306334]
+ [ 14.00291615]
+ [ 14.00291615]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-11.67691703]
+ [  9.45849844]
+ [  9.45849844]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-6.11926124]
+ [ 6.66453779]
+ [ 6.66453779]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-2.72754214]
+ [ 4.96112584]
+ [ 4.96112584]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.67106071]
+ [ 3.93034129]
+ [ 3.93034129]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 1
+ value of U_global 
+: [[0.06      ]
+ [0.04201038]
+ [0.02916484]
+ [0.02135448]
+ [0.01572085]
+ [0.01158378]
+ [0.00858711]
+ [0.00645142]
+ [0.00496225]
+ [0.0039583 ]
+ [0.00332075]]
+Element no. = 0
+sigma_next_step =
+ [[-170.28081255]
+ [ -30.28081255]
+ [ -30.28081255]]
+mode : plastic 
+  p_strain =
+ [[-0.00545086]
+ [ 0.00272543]
+ [ 0.00272543]]
+Element no. = 1
+sigma_next_step =
+ [[-137.69955945]
+ [   2.30044055]
+ [   2.30044055]]
+mode : plastic 
+  p_strain =
+ [[-0.00256558]
+ [ 0.00128279]
+ [ 0.00128279]]
+Element no. = 2
+sigma_next_step =
+ [[-93.60025108]
+ [ 46.39974892]
+ [ 46.39974892]]
+mode : plastic 
+  p_strain =
+ [[-0.00057987]
+ [ 0.00028993]
+ [ 0.00028993]]
+Element no. = 3
+sigma_next_step =
+ [[-73.01768983]
+ [ 41.19592421]
+ [ 41.19592421]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-44.04286372]
+ [ 26.6277028 ]
+ [ 26.6277028 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-25.86455748]
+ [ 17.48554638]
+ [ 17.48554638]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-14.58105384]
+ [ 11.81089791]
+ [ 11.81089791]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-7.64116738]
+ [ 8.3220583 ]
+ [ 8.3220583 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-3.40590232]
+ [ 6.19499503]
+ [ 6.19499503]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.83795854]
+ [ 4.90784663]
+ [ 4.90784663]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 2
+ value of U_global 
+: [[0.06      ]
+ [0.04112117]
+ [0.02798711]
+ [0.01984614]
+ [0.01461043]
+ [0.01076558]
+ [0.00798057]
+ [0.00599574]
+ [0.00461175]
+ [0.00367871]
+ [0.00308619]]
+Element no. = 0
+sigma_next_step =
+ [[-195.46929269]
+ [ -55.46929269]
+ [ -55.46929269]]
+mode : plastic 
+  p_strain =
+ [[-0.00568377]
+ [ 0.00284188]
+ [ 0.00284188]]
+Element no. = 1
+sigma_next_step =
+ [[-150.08761175]
+ [ -10.08761175]
+ [ -10.08761175]]
+mode : plastic 
+  p_strain =
+ [[-0.00259704]
+ [ 0.00129852]
+ [ 0.00129852]]
+Element no. = 2
+sigma_next_step =
+ [[-106.48079351]
+ [  33.51920649]
+ [  33.51920649]]
+mode : plastic 
+  p_strain =
+ [[-0.00060424]
+ [ 0.00030212]
+ [ 0.00030212]]
+Element no. = 3
+sigma_next_step =
+ [[-67.86020372]
+ [ 38.28611691]
+ [ 38.28611691]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-40.93196746]
+ [ 24.74689819]
+ [ 24.74689819]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-24.03765641]
+ [ 16.25048317]
+ [ 16.25048317]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-13.55114475]
+ [ 10.97665429]
+ [ 10.97665429]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-7.10144592]
+ [ 7.7342432 ]
+ [ 7.7342432 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-3.16533193]
+ [ 5.7574216 ]
+ [ 5.7574216 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.7787707 ]
+ [ 4.56118885]
+ [ 4.56118885]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 3
+ value of U_global 
+: [[0.06      ]
+ [0.04126053]
+ [0.02808374]
+ [0.01990957]
+ [0.01465712]
+ [0.01079998]
+ [0.00800608]
+ [0.0060149 ]
+ [0.00462649]
+ [0.00369047]
+ [0.00309606]]
+New itteration with value of t = 0.7000000000000001
+Element no. = 0
+sigma_next_step =
+ [[-402.68165191]
+ [-262.68165191]
+ [-262.68165191]]
+mode : plastic 
+  p_strain =
+ [[-0.00867858]
+ [ 0.00433929]
+ [ 0.00433929]]
+Element no. = 1
+sigma_next_step =
+ [[-150.23767744]
+ [ -10.23767744]
+ [ -10.23767744]]
+mode : plastic 
+  p_strain =
+ [[-0.00261133]
+ [ 0.00130566]
+ [ 0.00130566]]
+Element no. = 2
+sigma_next_step =
+ [[-106.62784657]
+ [  33.37215343]
+ [  33.37215343]]
+mode : plastic 
+  p_strain =
+ [[-0.00061324]
+ [ 0.00030662]
+ [ 0.00030662]]
+Element no. = 3
+sigma_next_step =
+ [[-68.07707444]
+ [ 38.40847342]
+ [ 38.40847342]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-41.0627797 ]
+ [ 24.82598546]
+ [ 24.82598546]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-24.11447704]
+ [ 16.3024172 ]
+ [ 16.3024172 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-13.59445211]
+ [ 11.01173398]
+ [ 11.01173398]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-7.12414104]
+ [ 7.75896065]
+ [ 7.75896065]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-3.17544784]
+ [ 5.77582143]
+ [ 5.77582143]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.78125953]
+ [ 4.5757657 ]
+ [ 4.5757657 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 1
+ value of U_global 
+: [[0.07      ]
+ [0.05047879]
+ [0.0342072 ]
+ [0.02358136]
+ [0.01736024]
+ [0.01279175]
+ [0.00948259]
+ [0.00712419]
+ [0.00547972]
+ [0.00437108]
+ [0.00366704]]
+Element no. = 0
+sigma_next_step =
+ [[-141.55935233]
+ [  -1.55935233]
+ [  -1.55935233]]
+mode : plastic 
+  p_strain =
+ [[-0.00626406]
+ [ 0.00313203]
+ [ 0.00313203]]
+Element no. = 1
+sigma_next_step =
+ [[-166.53941039]
+ [ -26.53941039]
+ [ -26.53941039]]
+mode : plastic 
+  p_strain =
+ [[-0.00361497]
+ [ 0.00180748]
+ [ 0.00180748]]
+Element no. = 2
+sigma_next_step =
+ [[-122.88376446]
+ [  17.11623554]
+ [  17.11623554]]
+mode : plastic 
+  p_strain =
+ [[-0.00124694]
+ [ 0.00062347]
+ [ 0.00062347]]
+Element no. = 3
+sigma_next_step =
+ [[-80.6320986 ]
+ [ 45.49190519]
+ [ 45.49190519]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-48.63572838]
+ [ 29.4044849 ]
+ [ 29.4044849 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-28.56175749]
+ [ 19.30896887]
+ [ 19.30896887]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-16.10159091]
+ [ 13.04255841]
+ [ 13.04255841]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-8.4380013 ]
+ [ 9.18989668]
+ [ 9.18989668]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-3.7610756 ]
+ [ 6.84101963]
+ [ 6.84101963]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.92534228]
+ [ 5.41964522]
+ [ 5.41964522]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 2
+ value of U_global 
+: [[0.07      ]
+ [0.04783797]
+ [0.03259071]
+ [0.02270529]
+ [0.0167153 ]
+ [0.01231653]
+ [0.0091303 ]
+ [0.00685952]
+ [0.00527614]
+ [0.00420869]
+ [0.00353081]]
+Element no. = 0
+sigma_next_step =
+ [[-216.36479998]
+ [ -76.36479998]
+ [ -76.36479998]]
+mode : plastic 
+  p_strain =
+ [[-0.00695576]
+ [ 0.00347788]
+ [ 0.00347788]]
+Element no. = 1
+sigma_next_step =
+ [[-158.59375408]
+ [ -18.59375408]
+ [ -18.59375408]]
+mode : plastic 
+  p_strain =
+ [[-0.00329735]
+ [ 0.00164867]
+ [ 0.00164867]]
+Element no. = 2
+sigma_next_step =
+ [[-116.73217919]
+ [  23.26782081]
+ [  23.26782081]]
+mode : plastic 
+  p_strain =
+ [[-0.00106266]
+ [ 0.00053133]
+ [ 0.00053133]]
+Element no. = 3
+sigma_next_step =
+ [[-77.63654518]
+ [ 43.80184088]
+ [ 43.80184088]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-46.82886828]
+ [ 28.31208241]
+ [ 28.31208241]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-27.50066306]
+ [ 18.59162368]
+ [ 18.59162368]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-15.50340264]
+ [ 12.55801589]
+ [ 12.55801589]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-8.12452213]
+ [ 8.84848393]
+ [ 8.84848393]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-3.62134833]
+ [ 6.58686973]
+ [ 6.58686973]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.890965  ]
+ [ 5.21830063]
+ [ 5.21830063]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 3
+ value of U_global 
+: [[0.07      ]
+ [0.04837248]
+ [0.03278207]
+ [0.02271784]
+ [0.01672453]
+ [0.01232334]
+ [0.00913535]
+ [0.00686331]
+ [0.00527906]
+ [0.00421102]
+ [0.00353276]]
+Element no. = 0
+sigma_next_step =
+ [[-201.22398223]
+ [ -61.22398223]
+ [ -61.22398223]]
+mode : plastic 
+  p_strain =
+ [[-0.00681576]
+ [ 0.00340788]
+ [ 0.00340788]]
+Element no. = 1
+sigma_next_step =
+ [[-163.43197525]
+ [ -23.43197525]
+ [ -23.43197525]]
+mode : plastic 
+  p_strain =
+ [[-0.00339131]
+ [ 0.00169566]
+ [ 0.00169566]]
+Element no. = 2
+sigma_next_step =
+ [[-119.27953521]
+ [  20.72046479]
+ [  20.72046479]]
+mode : plastic 
+  p_strain =
+ [[-0.0011011 ]
+ [ 0.00055055]
+ [ 0.00055055]]
+Element no. = 3
+sigma_next_step =
+ [[-77.67945219]
+ [ 43.82604863]
+ [ 43.82604863]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-46.85474896]
+ [ 28.32772951]
+ [ 28.32772951]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-27.51586172]
+ [ 18.60189863]
+ [ 18.60189863]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-15.51197083]
+ [ 12.56495627]
+ [ 12.56495627]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-8.12901227]
+ [ 8.85337418]
+ [ 8.85337418]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-3.62334972]
+ [ 6.59051007]
+ [ 6.59051007]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.8914574 ]
+ [ 5.22118461]
+ [ 5.22118461]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 4
+ value of U_global 
+: [[0.07      ]
+ [0.04821949]
+ [0.03272567]
+ [0.02270177]
+ [0.0167127 ]
+ [0.01231462]
+ [0.00912889]
+ [0.00685845]
+ [0.00527532]
+ [0.00420804]
+ [0.00353026]]
+New itteration with value of t = 0.8
+Element no. = 0
+sigma_next_step =
+ [[-416.71764688]
+ [-276.71764688]
+ [-276.71764688]]
+mode : plastic 
+  p_strain =
+ [[-0.00988714]
+ [ 0.00494357]
+ [ 0.00494357]]
+Element no. = 1
+sigma_next_step =
+ [[-160.65700052]
+ [ -22.80047743]
+ [ -22.80047743]]
+mode : elastic 
+  p_strain =
+ [[-0.00339131]
+ [ 0.00169566]
+ [ 0.00169566]]
+Element no. = 2
+sigma_next_step =
+ [[-118.28692361]
+ [  20.98016577]
+ [  20.98016577]]
+mode : elastic 
+  p_strain =
+ [[-0.0011011 ]
+ [ 0.00055055]
+ [ 0.00055055]]
+Element no. = 3
+sigma_next_step =
+ [[-77.62450741]
+ [ 43.79504927]
+ [ 43.79504927]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-46.82160732]
+ [ 28.30769254]
+ [ 28.30769254]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-27.49639901]
+ [ 18.588741  ]
+ [ 18.588741  ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-15.50099879]
+ [ 12.55606873]
+ [ 12.55606873]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-8.1232624 ]
+ [ 8.84711195]
+ [ 8.84711195]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-3.62078683]
+ [ 6.58584842]
+ [ 6.58584842]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.89082685]
+ [ 5.21749152]
+ [ 5.21749152]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 1
+ value of U_global 
+: [[0.08      ]
+ [0.05605196]
+ [0.03850703]
+ [0.02695478]
+ [0.01984371]
+ [0.01462167]
+ [0.01083912]
+ [0.00814333]
+ [0.00626362]
+ [0.00499638]
+ [0.00419163]]
+Element no. = 0
+sigma_next_step =
+ [[-194.85010743]
+ [ -54.85010743]
+ [ -54.85010743]]
+mode : plastic 
+  p_strain =
+ [[-0.0078356]
+ [ 0.0039178]
+ [ 0.0039178]]
+Element no. = 1
+sigma_next_step =
+ [[-162.18113198]
+ [ -22.18113198]
+ [ -22.18113198]]
+mode : plastic 
+  p_strain =
+ [[-0.00409114]
+ [ 0.00204557]
+ [ 0.00204557]]
+Element no. = 2
+sigma_next_step =
+ [[-118.43126804]
+ [  21.56873196]
+ [  21.56873196]]
+mode : plastic 
+  p_strain =
+ [[-0.00154694]
+ [ 0.00077347]
+ [ 0.00077347]]
+Element no. = 3
+sigma_next_step =
+ [[-89.38914257]
+ [ 50.61085743]
+ [ 50.61085743]]
+mode : plastic 
+  p_strain =
+ [[-5.15868381e-05]
+ [ 2.57934191e-05]
+ [ 2.57934191e-05]]
+Element no. = 4
+sigma_next_step =
+ [[-55.59329557]
+ [ 33.61093324]
+ [ 33.61093324]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-32.64764976]
+ [ 22.07120669]
+ [ 22.07120669]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-18.40499839]
+ [ 14.90835706]
+ [ 14.90835706]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-9.64509664]
+ [10.50455415]
+ [10.50455415]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-4.29911496]
+ [ 7.81965932]
+ [ 7.81965932]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-1.0577168 ]
+ [ 6.19495068]
+ [ 6.19495068]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 2
+ value of U_global 
+: [[0.08      ]
+ [0.05510593]
+ [0.03721527]
+ [0.02529626]
+ [0.01875294]
+ [0.01381795]
+ [0.01024331]
+ [0.00769571]
+ [0.00591932]
+ [0.00472174]
+ [0.00396123]]
+Element no. = 0
+sigma_next_step =
+ [[-221.64791711]
+ [ -81.64791711]
+ [ -81.64791711]]
+mode : plastic 
+  p_strain =
+ [[-0.00808339]
+ [ 0.0040417 ]
+ [ 0.0040417 ]]
+Element no. = 1
+sigma_next_step =
+ [[-176.28284987]
+ [ -36.28284987]
+ [ -36.28284987]]
+mode : plastic 
+  p_strain =
+ [[-0.00413309]
+ [ 0.00206654]
+ [ 0.00206654]]
+Element no. = 2
+sigma_next_step =
+ [[-132.64171549]
+ [   7.35828451]
+ [   7.35828451]]
+mode : plastic 
+  p_strain =
+ [[-0.00157443]
+ [ 0.00078722]
+ [ 0.00078722]]
+Element no. = 3
+sigma_next_step =
+ [[-83.24925753]
+ [ 50.44620003]
+ [ 50.44620003]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-52.53745011]
+ [ 31.76341158]
+ [ 31.76341158]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-30.85307774]
+ [ 20.8579993 ]
+ [ 20.8579993 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-17.39331469]
+ [ 14.08887632]
+ [ 14.08887632]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-9.11492615]
+ [ 9.9271411 ]
+ [ 9.9271411 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-4.06280173]
+ [ 7.38982924]
+ [ 7.38982924]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-0.99957635]
+ [ 5.85442739]
+ [ 5.85442739]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 3
+ value of U_global 
+: [[0.08      ]
+ [0.05530746]
+ [0.03742525]
+ [0.02551629]
+ [0.01878471]
+ [0.01384136]
+ [0.01026066]
+ [0.00770875]
+ [0.00592935]
+ [0.00472974]
+ [0.00396794]]
+New itteration with value of t = 0.9
+Element no. = 0
+sigma_next_step =
+ [[-427.09921161]
+ [-287.09921161]
+ [-287.09921161]]
+mode : plastic 
+  p_strain =
+ [[-0.01106192]
+ [ 0.00553096]
+ [ 0.00553096]]
+Element no. = 1
+sigma_next_step =
+ [[-174.82943467]
+ [ -34.82943467]
+ [ -34.82943467]]
+mode : plastic 
+  p_strain =
+ [[-0.0041384]
+ [ 0.0020692]
+ [ 0.0020692]]
+Element no. = 2
+sigma_next_step =
+ [[-131.32094361]
+ [   8.67905639]
+ [   8.67905639]]
+mode : plastic 
+  p_strain =
+ [[-0.001579 ]
+ [ 0.0007895]
+ [ 0.0007895]]
+Element no. = 3
+sigma_next_step =
+ [[-87.24821691]
+ [ 49.22465966]
+ [ 49.22465966]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 4
+sigma_next_step =
+ [[-52.62644348]
+ [ 31.81721573]
+ [ 31.81721573]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-30.90533988]
+ [ 20.89333074]
+ [ 20.89333074]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-17.42277729]
+ [ 14.11274152]
+ [ 14.11274152]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-9.13036595]
+ [ 9.94395672]
+ [ 9.94395672]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-4.06968373]
+ [ 7.4023469 ]
+ [ 7.4023469 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-1.00126953]
+ [ 5.86434423]
+ [ 5.86434423]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 1
+ value of U_global 
+: [[0.09      ]
+ [0.06450252]
+ [0.04353656]
+ [0.02918196]
+ [0.02148332]
+ [0.01582981]
+ [0.01173471]
+ [0.00881619]
+ [0.00678116]
+ [0.00540922]
+ [0.00453797]]
+Element no. = 0
+sigma_next_step =
+ [[-166.63426284]
+ [ -26.63426284]
+ [ -26.63426284]]
+mode : plastic 
+  p_strain =
+ [[-0.00865348]
+ [ 0.00432674]
+ [ 0.00432674]]
+Element no. = 1
+sigma_next_step =
+ [[-191.01240306]
+ [ -51.01240306]
+ [ -51.01240306]]
+mode : plastic 
+  p_strain =
+ [[-0.0051388]
+ [ 0.0025694]
+ [ 0.0025694]]
+Element no. = 2
+sigma_next_step =
+ [[-147.52139131]
+ [  -7.52139131]
+ [  -7.52139131]]
+mode : plastic 
+  p_strain =
+ [[-0.00221123]
+ [ 0.00110562]
+ [ 0.00110562]]
+Element no. = 3
+sigma_next_step =
+ [[-89.06324822]
+ [ 50.93675178]
+ [ 50.93675178]]
+mode : plastic 
+  p_strain =
+ [[-1.99068396e-04]
+ [ 9.95341979e-05]
+ [ 9.95341979e-05]]
+Element no. = 4
+sigma_next_step =
+ [[-60.18677038]
+ [ 36.38808422]
+ [ 36.38808422]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-35.34520807]
+ [ 23.89487141]
+ [ 23.89487141]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-19.92573746]
+ [ 16.14018119]
+ [ 16.14018119]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-10.44203641]
+ [ 11.37250782]
+ [ 11.37250782]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-4.65433542]
+ [ 8.46576974]
+ [ 8.46576974]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-1.14511214]
+ [ 6.70681726]
+ [ 6.70681726]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 2
+ value of U_global 
+: [[0.09      ]
+ [0.06202801]
+ [0.04220951]
+ [0.02871931]
+ [0.02078371]
+ [0.0153143 ]
+ [0.01135257]
+ [0.00852908]
+ [0.00656033]
+ [0.00523306]
+ [0.00439019]]
+Element no. = 0
+sigma_next_step =
+ [[-236.72897321]
+ [ -96.72897321]
+ [ -96.72897321]]
+mode : plastic 
+  p_strain =
+ [[-0.00930162]
+ [ 0.00465081]
+ [ 0.00465081]]
+Element no. = 1
+sigma_next_step =
+ [[-179.10494351]
+ [ -39.10494351]
+ [ -39.10494351]]
+mode : plastic 
+  p_strain =
+ [[-0.00480018]
+ [ 0.00240009]
+ [ 0.00240009]]
+Element no. = 2
+sigma_next_step =
+ [[-137.35151834]
+ [   2.64848166]
+ [   2.64848166]]
+mode : plastic 
+  p_strain =
+ [[-0.00201317]
+ [ 0.00100658]
+ [ 0.00100658]]
+Element no. = 3
+sigma_next_step =
+ [[-95.14028086]
+ [ 44.85971914]
+ [ 44.85971914]]
+mode : plastic 
+  p_strain =
+ [[-0.00022307]
+ [ 0.00011154]
+ [ 0.00011154]]
+Element no. = 4
+sigma_next_step =
+ [[-58.2267535 ]
+ [ 35.20308528]
+ [ 35.20308528]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-34.194171  ]
+ [ 23.11672114]
+ [ 23.11672114]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-19.27684433]
+ [ 15.61456688]
+ [ 15.61456688]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-10.10198548]
+ [ 11.00215554]
+ [ 11.00215554]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-4.5027643 ]
+ [ 8.19007707]
+ [ 8.19007707]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-1.10782091]
+ [ 6.48840589]
+ [ 6.48840589]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 3
+ value of U_global 
+: [[0.09      ]
+ [0.06254461]
+ [0.04237956]
+ [0.02870912]
+ [0.02078323]
+ [0.01531395]
+ [0.01135231]
+ [0.00852889]
+ [0.00656018]
+ [0.00523294]
+ [0.00439009]]
+Element no. = 0
+sigma_next_step =
+ [[-222.09530953]
+ [ -82.09530953]
+ [ -82.09530953]]
+mode : plastic 
+  p_strain =
+ [[-0.00916631]
+ [ 0.00458316]
+ [ 0.00458316]]
+Element no. = 1
+sigma_next_step =
+ [[-184.13525213]
+ [ -44.13525213]
+ [ -44.13525213]]
+mode : plastic 
+  p_strain =
+ [[-0.00489425]
+ [ 0.00244713]
+ [ 0.00244713]]
+Element no. = 2
+sigma_next_step =
+ [[-1.40041261e+02]
+ [-4.12610638e-02]
+ [-4.12610638e-02]]
+mode : plastic 
+  p_strain =
+ [[-0.00205122]
+ [ 0.00102561]
+ [ 0.00102561]]
+Element no. = 3
+sigma_next_step =
+ [[-95.02409788]
+ [ 44.97590212]
+ [ 44.97590212]]
+mode : plastic 
+  p_strain =
+ [[-0.00022133]
+ [ 0.00011066]
+ [ 0.00011066]]
+Element no. = 4
+sigma_next_step =
+ [[-58.22542514]
+ [ 35.20228217]
+ [ 35.20228217]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-34.1933909 ]
+ [ 23.11619377]
+ [ 23.11619377]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-19.27640456]
+ [ 15.61421066]
+ [ 15.61421066]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-10.10175502]
+ [ 11.00190454]
+ [ 11.00190454]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-4.50266158]
+ [ 8.18989023]
+ [ 8.18989023]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-1.10779563]
+ [ 6.48825786]
+ [ 6.48825786]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 4
+ value of U_global 
+: [[0.09      ]
+ [0.06239951]
+ [0.04232532]
+ [0.0286918 ]
+ [0.02077283]
+ [0.01530629]
+ [0.01134663]
+ [0.00852462]
+ [0.00655689]
+ [0.00523032]
+ [0.00438789]]
+New itteration with value of t = 1
+Element no. = 0
+sigma_next_step =
+ [[-437.36541148]
+ [-297.36541148]
+ [-297.36541148]]
+mode : plastic 
+  p_strain =
+ [[-0.01223563]
+ [ 0.00611781]
+ [ 0.00611781]]
+Element no. = 1
+sigma_next_step =
+ [[-181.53002334]
+ [ -43.54972126]
+ [ -43.54972126]]
+mode : elastic 
+  p_strain =
+ [[-0.00489425]
+ [ 0.00244713]
+ [ 0.00244713]]
+Element no. = 2
+sigma_next_step =
+ [[-139.14229296]
+ [   0.18038747]
+ [   0.18038747]]
+mode : elastic 
+  p_strain =
+ [[-0.00205122]
+ [ 0.00102561]
+ [ 0.00102561]]
+Element no. = 3
+sigma_next_step =
+ [[-94.90629757]
+ [ 44.97218521]
+ [ 44.97218521]]
+mode : elastic 
+  p_strain =
+ [[-0.00022133]
+ [ 0.00011066]
+ [ 0.00011066]]
+Element no. = 4
+sigma_next_step =
+ [[-58.19628366]
+ [ 35.18466363]
+ [ 35.18466363]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-34.17627731]
+ [ 23.10462425]
+ [ 23.10462425]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-19.26675683]
+ [ 15.60639584]
+ [ 15.60639584]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-10.09669915]
+ [ 10.99639815]
+ [ 10.99639815]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-4.50040802]
+ [ 8.18579123]
+ [ 8.18579123]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-1.10724119]
+ [ 6.48501053]
+ [ 6.48501053]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 1
+ value of U_global 
+: [[0.1       ]
+ [0.07022825]
+ [0.04810696]
+ [0.03294755]
+ [0.02390318]
+ [0.01761287]
+ [0.0130565 ]
+ [0.00980924]
+ [0.00754498]
+ [0.0060185 ]
+ [0.00504912]]
+Element no. = 0
+sigma_next_step =
+ [[-215.60367313]
+ [ -75.60367313]
+ [ -75.60367313]]
+mode : plastic 
+  p_strain =
+ [[-0.01018507]
+ [ 0.00509253]
+ [ 0.00509253]]
+Element no. = 1
+sigma_next_step =
+ [[-182.89937963]
+ [ -42.89937963]
+ [ -42.89937963]]
+mode : plastic 
+  p_strain =
+ [[-0.0055946]
+ [ 0.0027973]
+ [ 0.0027973]]
+Element no. = 2
+sigma_next_step =
+ [[-139.19900148]
+ [   0.80099852]
+ [   0.80099852]]
+mode : plastic 
+  p_strain =
+ [[-0.00249731]
+ [ 0.00124865]
+ [ 0.00124865]]
+Element no. = 3
+sigma_next_step =
+ [[-94.40920556]
+ [ 45.59079444]
+ [ 45.59079444]]
+mode : plastic 
+  p_strain =
+ [[-0.00050204]
+ [ 0.00025102]
+ [ 0.00025102]]
+Element no. = 4
+sigma_next_step =
+ [[-66.96615242]
+ [ 40.48680431]
+ [ 40.48680431]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-39.32645956]
+ [ 26.58636758]
+ [ 26.58636758]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-22.17015406]
+ [ 17.95819624]
+ [ 17.95819624]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-11.61821772]
+ [ 12.65349656]
+ [ 12.65349656]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-5.17859545]
+ [ 9.4193462 ]
+ [ 9.4193462 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-1.27409652]
+ [ 7.46226694]
+ [ 7.46226694]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 2
+ value of U_global 
+: [[0.1       ]
+ [0.06953316]
+ [0.04728391]
+ [0.03196322]
+ [0.02272463]
+ [0.01674446]
+ [0.01241275]
+ [0.00932559]
+ [0.00717297]
+ [0.00572176]
+ [0.00480017]]
+Element no. = 0
+sigma_next_step =
+ [[-235.29336298]
+ [ -95.29336298]
+ [ -95.29336298]]
+mode : plastic 
+  p_strain =
+ [[-0.01036713]
+ [ 0.00518356]
+ [ 0.00518356]]
+Element no. = 1
+sigma_next_step =
+ [[-190.2625099]
+ [ -50.2625099]
+ [ -50.2625099]]
+mode : plastic 
+  p_strain =
+ [[-0.00559787]
+ [ 0.00279894]
+ [ 0.00279894]]
+Element no. = 2
+sigma_next_step =
+ [[-146.8082879]
+ [  -6.8082879]
+ [  -6.8082879]]
+mode : plastic 
+  p_strain =
+ [[-0.00250162]
+ [ 0.00125081]
+ [ 0.00125081]]
+Element no. = 3
+sigma_next_step =
+ [[-102.15086078]
+ [  37.84913922]
+ [  37.84913922]]
+mode : plastic 
+  p_strain =
+ [[-0.00050594]
+ [ 0.00025297]
+ [ 0.00025297]]
+Element no. = 4
+sigma_next_step =
+ [[-63.66436112]
+ [ 38.49058721]
+ [ 38.49058721]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 5
+sigma_next_step =
+ [[-37.38745369]
+ [ 25.27551674]
+ [ 25.27551674]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 6
+sigma_next_step =
+ [[-21.07704629]
+ [ 17.07276063]
+ [ 17.07276063]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 7
+sigma_next_step =
+ [[-11.04537713]
+ [ 12.02961116]
+ [ 12.02961116]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 8
+sigma_next_step =
+ [[-4.92326285]
+ [ 8.9549218 ]
+ [ 8.9549218 ]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+Element no. = 9
+sigma_next_step =
+ [[-1.21127671]
+ [ 7.09433706]
+ [ 7.09433706]]
+mode : elastic 
+  p_strain =
+ [[0.]
+ [0.]
+ [0.]]
+value of k is : 3
+ value of U_global 
+: [[0.1       ]
+ [0.06965645]
+ [0.04736574]
+ [0.03201604]
+ [0.02275593]
+ [0.01676752]
+ [0.01242984]
+ [0.00933843]
+ [0.00718285]
+ [0.00572964]
+ [0.00480679]]
